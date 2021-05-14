@@ -16,7 +16,7 @@ namespace BetterCapacityDisplay
 
         protected override void Initialize()
         {
-            harmony = (Harmony)(object)new Harmony("de.gamecontrol.patch");
+            harmony = (Harmony)(object)new Harmony("cz.xmnovotny.bettercapacitydisplay.patch");
             Harmony.DEBUG = true;
             FileLog.Reset();
             harmony.PatchAll();
