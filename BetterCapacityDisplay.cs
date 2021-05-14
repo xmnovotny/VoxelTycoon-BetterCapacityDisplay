@@ -1,22 +1,12 @@
 ﻿using HarmonyLib;
 using System;
-using System.Reflection;
 using UnityEngine;
-using UnityEditor;
-using VoxelTycoon;
-using VoxelTycoon.Game.UI.ModernUI;
 using VoxelTycoon.Game.UI;
 using VoxelTycoon.Tracks;
 using VoxelTycoon.Modding;
-using VoxelTycoon.UI;
 using VoxelTycoon.Tracks.Rails;
-using VoxelTycoon.Buildings;
-using VoxelTycoon.UI.Windows;
-using Newtonsoft.Json;
 using System.Runtime.CompilerServices;
-using System.Diagnostics;
 using BetterCapacityDisplay;
-using XMNUtils;
 
 namespace GameControl
 {

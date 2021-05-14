@@ -7,7 +7,6 @@ using VoxelTycoon;
 using VoxelTycoon.Game.UI;
 using VoxelTycoon.Tracks;
 using System.Collections.Generic;
-using XMNUtils;
 
 namespace BetterCapacityDisplay
 {
