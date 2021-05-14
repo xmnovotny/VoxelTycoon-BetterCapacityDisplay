@@ -1,0 +1,4 @@
+{
+  "Description": "Small QoL mod that displays summary of loaded items/capacity in the header of the vehicle window. Also displays items counts in the train depot for more than one cargo type unlike the original game.",
+  "Title": "Better vehicle capacity display"
+}
