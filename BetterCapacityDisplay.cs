@@ -6,9 +6,8 @@ using VoxelTycoon.Tracks;
 using VoxelTycoon.Modding;
 using VoxelTycoon.Tracks.Rails;
 using System.Runtime.CompilerServices;
-using BetterCapacityDisplay;
 
-namespace GameControl
+namespace BetterCapacityDisplay
 {
     // Main Class
     public class BetterCapacityDisplay : Mod
